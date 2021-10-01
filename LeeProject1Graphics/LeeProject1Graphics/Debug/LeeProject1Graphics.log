@@ -1,0 +1,9 @@
+﻿  main.cpp
+main.obj : error LNK2019: unresolved external symbol _glfwInit referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwTerminate referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwSetErrorCallback referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwWindowHint referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwCreateWindow referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwDestroyWindow referenced in function _main
+C:\Users\tl-ma\Desktop\Graphics\My code\Project1\LeeProject1Graphics\lib\Debug_x64\glfw3.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\tl-ma\Desktop\Graphics\My code\Project1\LeeProject1Graphics\Debug\LeeProject1Graphics.exe : fatal error LNK1120: 6 unresolved externals
