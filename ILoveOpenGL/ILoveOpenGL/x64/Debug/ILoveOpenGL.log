@@ -1,0 +1,3 @@
+﻿  theMain.cpp
+C:\Users\tl-ma\OneDrive\Desktop\GDP PatternsGraphics\My code\Assignments\Project 1\ILoveOpenGL\ILoveOpenGL\theMain.cpp(209,19): warning C4101: 'mvp': unreferenced local variable
+  ILoveOpenGL.vcxproj -> C:\Users\tl-ma\OneDrive\Desktop\GDP PatternsGraphics\My code\Assignments\Project 1\ILoveOpenGL\x64\Debug\ILoveOpenGL.exe
