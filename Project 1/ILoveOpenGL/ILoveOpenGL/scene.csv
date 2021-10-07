@@ -1,0 +1,12 @@
+camera-eye,0,0,20
+meshName,pos x,pos y,pos z,ori x,ori y,ori z,r,g,b,scale,wire
+bun_zipper_res2_xyz_n_rgb.ply,10,0,0,0,0,0,1,0,0,5.0f,0
+bun_zipper_res2_xyz_n_rgb.ply,5,0,0,0,0,0,0,1,0,5.0f,0
+bun_zipper_res2_xyz_n_rgb.ply,-5,0,0,0,0,0,0,0,1,5.0f,0
+bun_zipper_res2_xyz_n_rgb.ply,-10,0,0,0,0,0,1,1,1,5.0f,0
+bun_zipper_res2_xyz_n_rgb.ply,-10,0,0,0,0,0,1,1,1,5.0f,0
+bun_zipper_res2_xyz_n_rgb.ply,-10,0,0,0,0,0,1,1,1,5.0f,0
+Assembled_ISS_xyz_rgba_n.ply,0,0,0,0,20,30,0,1,0,1,1
+Hogwarts_xyz_n_rgba (x0.1 scale).ply,0,-130,0,0,0,0,1,0,0,0.05,0
+dragon.ply,0,0,20,0,0,0,0,0,1,100.0f,0
+dragon.ply,0,0,20,0,0,0,0,0,1,100.0f,0
