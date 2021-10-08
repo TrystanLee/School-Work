@@ -1,12 +1,12 @@
-camera-eye,0,0,20
-meshName,pos x,pos y,pos z,ori x,ori y,ori z,r,g,b,scale,wire
-bun_zipper_res2_xyz_n_rgb.ply,10,0,0,0,0,0,1,0,0,5.0f,0
-bun_zipper_res2_xyz_n_rgb.ply,5,0,0,0,0,0,0,1,0,5.0f,0
-bun_zipper_res2_xyz_n_rgb.ply,-5,0,0,0,0,0,0,0,1,5.0f,0
-bun_zipper_res2_xyz_n_rgb.ply,-10,0,0,0,0,0,1,1,1,5.0f,0
-bun_zipper_res2_xyz_n_rgb.ply,-10,0,0,0,0,0,1,1,1,5.0f,0
-bun_zipper_res2_xyz_n_rgb.ply,-10,0,0,0,0,0,1,1,1,5.0f,0
-Assembled_ISS_xyz_rgba_n.ply,0,0,0,0,20,30,0,1,0,1,1
-Hogwarts_xyz_n_rgba (x0.1 scale).ply,0,-130,0,0,0,0,1,0,0,0.05,0
-dragon.ply,0,0,20,0,0,0,0,0,1,100.0f,0
-dragon.ply,0,0,20,0,0,0,0,0,1,100.0f,0
+camera-eye,0,0,-20
+meshName,pos x,pos y,pos z,ori x,ori y,ori z,r,g,b,scale,wire,describe in world
+bun_zipper_res2_xyz_n_rgb.ply,0,12.8,-5,90,5,-10,255,0,0,5.0f,0,red bunny laying on iss panel
+bun_zipper_res2_xyz_n_rgb.ply,-11.8,17.5,0.1,0,0,0,0,255,0,5.0f,0,green bunny on ravenclaw dragon horn
+bun_zipper_res2_xyz_n_rgb.ply,-5,0.5,3,0,0,0,0,0,255,5.0f,0,blue rabbit in the iss
+bun_zipper_res2_xyz_n_rgb.ply,17.4,9.5,15,0,0,0,255,255,0,5.0f,0,yellow rabit on hogwarts tower
+bun_zipper_res2_xyz_n_rgb.ply,-12.3,8,0,0,0,0,255,0,255,5.0f,0,purple rabbit in blue dragon mouth
+bun_zipper_res2_xyz_n_rgb.ply,20,17.5,-15,0,0,0,1,1,1,5.0f,0,black bunny on hufflepuff dragon
+Assembled_ISS_xyz_rgba_n.ply,0,0,0,0,20,30,0,165,0,1,1,crashes into hogwarts
+Hogwarts_xyz_n_rgba (x0.1 scale).ply,0,-130,0,0,0,0,0,204,204,0.05,0,hogwarts
+dragon.ply,20,0,-20,0,90,0,255,255,0,100.0f,0,hufflepuff dragon attacking the iss
+dragon.ply,-28,10,8,10,0,90,0,0,122,100.0f,0,ravenclaw dragon attacking the iss

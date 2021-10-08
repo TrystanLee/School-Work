@@ -1,0 +1,12 @@
+Use Debug x64
+
+The scene does load but because of the scaling size of the dragons it may take a literal minute or two to load the models. When the model is loaded, it will be indicated on the console.
+
+Scene Description:
+The rabbits from Monty Python and the Holy Grail have decided to invade ths ISS and crash it into Hogwarts. The dragons from Hufflepuff and Ravenclaw are defending Hogwarts from these monstrosities.
+There are a total of 6 rabbits, 1 ISS, 1 Hogwart, and 2 Dragons for a total of 10 models.
+
+The scene is loaded from "scene.csv". I chose this specific file format because I could use string stream to receive 1 line from the .csv file and break each line into strings each containing a different piece of information.
+A majority of this program was based from the one developed in class however the major changes were initializing the camera-eye and models from a different file to be read in.
+2 methods were developed 1) to initialize the camera-eye and 2) to initialize the 3d models
+technically these 2 methods could be 1 singular method however in practice 1 used the camera-eye intialization method to test how string streaming works and incase I was unable to figure how to use string streaming for loading ply models, they were kept seperate.
